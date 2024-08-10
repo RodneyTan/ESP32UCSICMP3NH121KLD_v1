@@ -25,8 +25,8 @@ float NH121;
 float Batt_Voltage;
 
 #include "ThingSpeak.h"
-unsigned long myChannelNumber = 2185428;
-const char * myWriteAPIKey = "6EK213LRZIYJW8PT";
+unsigned long myChannelNumber = 1234567;
+const char * myWriteAPIKey = "xxxxxxxxxx";
 WiFiClient client;
 
 
